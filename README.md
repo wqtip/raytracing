@@ -11,6 +11,7 @@ cmake --build build --config release
 
 build/Release/main.exe
 ```
+the resulting image (stored in 'output.ppm') will look similar to example render #2
 
 # example renders:
 **1.** 
