@@ -14,6 +14,9 @@
 #include "vec3.h"
 #include "ray.h"
 
+using std::make_shared;
+using std::shared_ptr;
+
 static const double M_PI = 3.14159265358;
 inline double random_double()
 {
