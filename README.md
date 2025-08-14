@@ -13,8 +13,10 @@ build/Release/main.exe
 ```
 
 # example renders:
-1. 
+**1.** 
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/1aee9491-b2ba-456d-b2dd-cc28ce8888eb" />
-2.
+**2.**
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/8cd4f50b-6ea9-4764-8140-a789766f9295" />
+**3.** 
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/8580c88f-09d7-40ca-8481-4877393d8bc4" />
 
