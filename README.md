@@ -19,5 +19,4 @@ the resulting image (stored in 'output.ppm') will look similar to example render
 **2.**
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/8cd4f50b-6ea9-4764-8140-a789766f9295" />
 **3.** 
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/8580c88f-09d7-40ca-8481-4877393d8bc4" />
-
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/9e2a9ddc-6434-46a9-809d-d40ffebe2763" />
