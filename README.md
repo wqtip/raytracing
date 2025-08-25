@@ -7,6 +7,8 @@ simple c++ ray tracer capable of rendering photorealistic arrangements of metal,
 run the following commands from the top-level directory: 
 
 ```
+cmake -B build
+
 cmake --build build --config release
 
 build/Release/main.exe
